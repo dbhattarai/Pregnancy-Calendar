@@ -133,46 +133,8 @@ public class DetailDescription extends AppCompatActivity {
 
     public void getDayAndWeek(String month) {
         switch (month) {
-            case "month1":
-                day = 1;
-                week = 0;
-                break;
-            case "month2":
-                day = 29;
-                week = 4;
-                break;
-            case "month3":
-                day = 57;
-                week = 8;
-                break;
-            case "month4":
-                day = 85;
-                week = 12;
-                break;
-            case "month5":
-                day = 113;
-                week = 16;
-                break;
-            case "month6":
-                day = 141;
-                week = 20;
-                break;
-            case "month7":
-                day = 169;
-                week = 24;
-                break;
-            case "month8":
-                day = 197;
-                week = 28;
-                break;
-            case "month9":
-                day = 225;
-                week = 32;
-                break;
-            case "month10":
-                day = 253;
-                week = 36;
-                break;
+            .
+            .
         }
         date = getDate(day - 1);
     }
