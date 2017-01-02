@@ -90,8 +90,8 @@ public class DetailDescription extends AppCompatActivity {
                     JSONArray jsonArray = jsonobj.getJSONArray(month);
                     getDayAndWeek(month);
                     List<Date> dates = new ArrayList<Date>();
-                    Date dueDate=getDate(280);
-                    dates = getDaysBetweenDates(dueDate, getDate(28));
+                  //  Date dueDate=getDate(280);
+                    dates = getDaysBetweenDates(date, getDate(28));
                     for (int i = 0; i < dates.size(); i++) {
                         dates.get(i);
                     }
