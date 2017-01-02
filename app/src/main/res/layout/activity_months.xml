@@ -1,0 +1,188 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:paddingTop="@dimen/activity_vertical_margin"
+    tools:context="com.example.dalls.pregnancycalander.Months">
+
+    <ScrollView
+        android:layout_width="match_parent"
+        android:layout_height="match_parent">
+
+        <LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+            android:id="@+id/linearlayout_1"
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+            android:background="@android:color/holo_orange_dark"
+            android:backgroundTint="#ffffff"
+            android:orientation="vertical">
+
+            <LinearLayout
+                android:layout_width="fill_parent"
+                android:layout_height="100dp"
+                android:background="@android:color/holo_orange_dark"
+                android:backgroundTint="#ffffff"
+                android:orientation="horizontal"
+                android:weightSum="3">
+
+                <TextView xmlns:android="http://schemas.android.com/apk/res/android"
+                    android:id="@+id/month1"
+                    android:layout_width="wrap_content"
+                    android:layout_height="match_parent"
+                    android:layout_margin="5dp"
+                    android:layout_weight="1"
+                    android:background="#446c35"
+                    android:gravity="center_vertical|center_horizontal"
+                    android:tag="month1"
+                    android:text="Month 1"
+                    android:textColor="#ffffff"
+                    android:textSize="25dp" />
+
+                <TextView xmlns:android="http://schemas.android.com/apk/res/android"
+                    android:id="@+id/month2"
+                    android:layout_width="wrap_content"
+                    android:layout_height="match_parent"
+                    android:layout_margin="5dp"
+                    android:layout_weight="1"
+                    android:background="#2a2b79"
+                    android:gravity="center_vertical|center_horizontal"
+                    android:tag="month2"
+                    android:text="Month 2"
+                    android:textColor="#ffffff"
+                    android:textSize="25dp" />
+
+                <TextView xmlns:android="http://schemas.android.com/apk/res/android"
+                    android:id="@+id/month3"
+                    android:layout_width="wrap_content"
+                    android:layout_height="match_parent"
+                    android:layout_margin="5dp"
+                    android:layout_weight="1"
+                    android:background="#6f205c"
+                    android:gravity="center_vertical|center_horizontal"
+                    android:tag="month3"
+                    android:text="Month 3"
+                    android:textColor="#ffffff"
+                    android:textSize="25dp" />
+            </LinearLayout>
+
+            <LinearLayout
+                android:layout_width="match_parent"
+                android:layout_height="100dp"
+                android:background="@android:color/holo_orange_dark"
+                android:backgroundTint="#ffffff"
+                android:orientation="horizontal"
+                android:weightSum="3">
+
+                <TextView xmlns:android="http://schemas.android.com/apk/res/android"
+                    android:id="@+id/month4"
+                    android:layout_width="wrap_content"
+                    android:layout_height="match_parent"
+                    android:layout_margin="5dp"
+                    android:layout_weight="1"
+                    android:background="#acae45"
+                    android:gravity="center_vertical|center_horizontal"
+                    android:tag="month4"
+                    android:text="Month 4"
+                    android:textColor="#ffffff"
+                    android:textSize="25dp" />
+
+                <TextView xmlns:android="http://schemas.android.com/apk/res/android"
+                    android:id="@+id/month5"
+                    android:layout_width="wrap_content"
+                    android:layout_height="match_parent"
+                    android:layout_margin="5dp"
+                    android:layout_weight="1"
+                    android:background="#f5bad6c8"
+                    android:gravity="center_vertical|center_horizontal"
+                    android:tag="month5"
+                    android:text="Month 5"
+                    android:textColor="#ffffff"
+                    android:textSize="25dp" />
+
+                <TextView xmlns:android="http://schemas.android.com/apk/res/android"
+                    android:id="@+id/month6"
+                    android:layout_width="wrap_content"
+                    android:layout_height="match_parent"
+                    android:layout_margin="5dp"
+                    android:layout_weight="1"
+                    android:background="#be6a61"
+                    android:gravity="center_vertical|center_horizontal"
+                    android:tag="month6"
+                    android:text="Month 6"
+                    android:textColor="#ffffff"
+                    android:textSize="25dp" />
+
+
+            </LinearLayout>
+
+            <LinearLayout
+                android:layout_width="match_parent"
+                android:layout_height="100dp"
+                android:background="@android:color/holo_orange_dark"
+                android:backgroundTint="#ffffff"
+                android:orientation="horizontal"
+                android:weightSum="3">
+
+                <TextView xmlns:android="http://schemas.android.com/apk/res/android"
+                    android:id="@+id/month7"
+                    android:layout_width="wrap_content"
+                    android:layout_height="match_parent"
+                    android:layout_margin="5dp"
+                    android:layout_weight="1"
+                    android:background="#be6a61"
+                    android:gravity="center_vertical|center_horizontal"
+                    android:tag="month7"
+                    android:text="Month 7"
+                    android:textColor="#ffffff"
+                    android:textSize="25dp" />
+
+                <TextView xmlns:android="http://schemas.android.com/apk/res/android"
+                    android:id="@+id/month8"
+                    android:layout_width="wrap_content"
+                    android:layout_height="match_parent"
+                    android:layout_margin="5dp"
+                    android:layout_weight="1"
+                    android:background="#ce5615"
+                    android:gravity="center_vertical|center_horizontal"
+                    android:tag="month8"
+                    android:text="Month 8"
+                    android:textColor="#ffffff"
+                    android:textSize="25dp" />
+
+                <TextView xmlns:android="http://schemas.android.com/apk/res/android"
+                    android:id="@+id/month9"
+                    android:layout_width="wrap_content"
+                    android:layout_height="match_parent"
+                    android:layout_margin="5dp"
+                    android:layout_weight="1"
+                    android:background="#19e370"
+                    android:gravity="center_vertical|center_horizontal"
+                    android:tag="month9"
+                    android:text="Month 9"
+                    android:textColor="#ffffff"
+                    android:textSize="25dp" />
+            </LinearLayout>
+
+            <LinearLayout
+                android:layout_width="match_parent"
+                android:layout_height="100dp"
+                android:background="@android:color/holo_orange_dark"
+                android:backgroundTint="#ffffff"
+                android:orientation="horizontal">
+
+                <TextView xmlns:android="http://schemas.android.com/apk/res/android"
+                    android:id="@+id/month10"
+                    android:layout_width="match_parent"
+                    android:layout_height="match_parent"
+                    android:layout_margin="5dp"
+                    android:background="#3d2a3e"
+                    android:gravity="center_vertical|center_horizontal"
+                    android:tag="month10"
+                    android:text="Month 10"
+                    android:textColor="#ffffff"
+                    android:textSize="25dp" />
+            </LinearLayout>
+        </LinearLayout>
+    </ScrollView>
+</RelativeLayout>

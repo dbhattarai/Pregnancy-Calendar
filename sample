@@ -1,0 +1,892 @@
+﻿{
+"month1":[
+	{
+		"description": "Month 1"
+	},
+	{
+		"description": "Approximate day of your last menstrual cycle."
+	},
+	{
+		"description": "If you smoke, this is the time to quit. Speak to your doctor about smoking cessation program."
+	},
+	{
+		"description": "Speak to your health care provider about any current medications and their health risks to developing fetus."
+	},
+	{
+		"description": "Look at your work and home environment for potential environmental hazards."
+	},
+	{
+		"description": "Schedule a dental exam prior to pregnancy to take care of any necessary dental work to avoid unnecessary exposure to x-rays."
+	},
+	{
+		"description": "Taking prenatal vitamins now with extra folic acid helps promote maternal and fetal health and prevent neural tube defects."
+	},
+	{
+		"description": "Alcohol and drugs are a serious threat fetal development. They should be avoided during pregnancy."
+	},
+	{
+		"description": "Getting a health physical for you and your partner prior to conception is helpful to avoid potential medical problems."
+	},
+	{
+		"description": "Now is the time to talk with your partner about parenting and pregnancy."
+	},
+	{
+		"description": "Ovulation should be occurring within the next several days. Look for increased mucus in vaginal secretions."
+	},
+	{
+		"description": "Caffeine's effect on developing baby is unknown. It is best to avoid caffeine during pregnancy."
+	},
+	{
+		"description": "If you have a regular exercise routine, usually there is no reason to stop."
+	},
+	{
+		"description": "If you haven't found a doctor or midwife, now is a good time to start looking for one."
+	},
+	{
+		"description": "Based on a 28 day cycle, today is the approximate date of conception."
+	},
+	{
+		"description": "Once sperm enters egg, the egg splits and forms nuclei of ovum. Sperm nucei and ovum nuclei join and this is fertilization."
+	},
+	{
+		"description": "Until day 15 baby is considered a zygote."
+	},
+	{
+		"description": "Sex of your baby is determined at the moment of fertilization."
+	},
+	{
+		"description": "Zygote is rapidly dividing and is surrounded by the zona pellucida The zona pellucida holds the cells together."
+	},
+	{
+		"description": "The inner solid ball of cells is called the blastocyst."
+	},
+	{
+		"description": "The zona pellucida is replaced by the trophoblast."
+	},
+	{
+		"description": "The zygote is fed by uterine \"milk\" (or secretions from uterine glands) at this time."
+	},
+	{
+		"description": "Between days 7-10 from fertilization implantation usually occurs."
+	},
+	{
+		"description": "The amniotic sac begins to form at the time of implantation."
+	},
+	{
+		"description": "The yolk sac and umbilical cord also begin to form."
+	},
+	{
+		"description": "It is possible to receive positive results from a home pregnancy test at this time, but they are more accurate if taken after a missed period."
+	},
+	{
+		"description": "You may be feeling symptoms of pregnancy now such as nausea, fatigue, and breast tenderness."
+	},
+	{
+		"description": "You may be noticing more frequent urination and increased vaginal discharge."
+	},
+	{
+		"description": "If you have a 28 day cycle, you should note an absence of your menstrual cycle today."
+	}
+],
+"month2":[
+	{
+		"description": "Month 2"
+	},
+	{
+		"description": "Baby is approximately 1 mm long.  "
+	},
+	{
+		"description": "Your baby is now called an embryo."
+	},
+	{
+		"description": "Baby's neural tube forms, heart begins to form, and blood begins to circulate."
+	},
+	{
+		"description": "Moms may notice nasal congestion and nosebleeds during pregnancy."
+	},
+	{
+		"description": "Mom's blood volume begins to increase. Mom's will have 45% more blood by the third trimester. "
+	},
+	{
+		"description": "Baby's liver begins to function."
+	},
+	{
+		"description": "Mom's feelings about pregnancy range from ambivalence, excitement, to nervousness. All are normal."
+	},
+	{
+		"description": "Baby is approximately 2 mm long."
+	},
+	{
+		"description": "Eating dry crackers may help with morning sickness."
+	},
+	{
+		"description": "Mom's should plan rest periods throughout the day to help with fatigue. "
+	},
+	{
+		"description": "Normal weight gain during pregnancy is 25 - 35 pounds. During the 1st trimester expect a 3 1/2 - 5 pound gain. "
+	},
+	{
+		"description": "Baby's limb buds are noticeable now."
+	},
+	{
+		"description": "Baby's mouth, jaw, and esophagus are forming."
+	},
+	{
+		"description": "Baby's heart begins to beat, although only visible through ultrasound "
+	},
+	{
+		"description": "Baby's crown to rump length is 4-6 mm. Baby weighs about 0.4 grams "
+	},
+	{
+		"description": "Baby's brain begins to form and cranial nerves are formed."
+	},
+	{
+		"description": "Baby is C shaped now and has a tail."
+	},
+	{
+		"description": "Moms may be experiencing mood swings and/or irritability. "
+	},
+	{
+		"description": "Baby's placenta development begins."
+	},
+	{
+		"description": "Baby's eyes, ears, mouth, nose, lip, tongue, and teeth are forming. "
+	},
+	{
+		"description": "Moms should expect to have blood work done or scheduled at first prenatal appointment. "
+	},
+	{
+		"description": "Baby's crown to rump length is 8 mm or 0.30 inches. Baby weighs about 0.8 grams. "
+	},
+	{
+		"description": "Mom may notice changes in skin pigmentation during pregnancy. "
+	},
+	{
+		"description": "Baby's bones begin to form."
+	},
+	{
+		"description": "Baby's mouth, nose, and lips are recognizable."
+	},
+	{
+		"description": "Baby's sex glands appear. "
+	},
+	{
+		"description": "Moms may find acupuncture helps with morning sickness."
+	},
+	{
+		"description": "Baby's fingers and toes are present, although they may still be webbed."
+	}
+],
+"month3":[
+	{
+		"description": "Month 3"
+	},
+	{
+		"description": "Baby's crown to rump length is 12 mm or 0.50 inches. Baby weighs about 1 gram. "
+	},
+	{
+		"description": "Baby's external ears are developing "
+	},
+	{
+		"description": "Mom's clothing is probably getting tight now."
+	},
+	{
+		"description": "Washing your face several times a day may help with skin breakouts."
+	},
+	{
+		"description": "Baby's optic nerve and eyelids are developing."
+	},
+	{
+		"description": "Baby's arms and legs are moving now. This would be visible on ultrasound."
+	},
+	{
+		"description": "You may be able to hear your baby's heartbeat via doppler."
+	},
+	{
+		"description": "Baby's crown to rump length is 20 mm or 0.75 inches. Baby weighs about 2 grams. "
+	},
+	{
+		"description": "Baby's muscles in trunk, limbs, and head are developing. "
+	},
+	{
+		"description": "Male and female genitalia still look very similar."
+	},
+	{
+		"description": "Development of heart is complete."
+	},
+	{
+		"description": "Warm or cold compresses may help with headaches."
+	},
+	{
+		"description": "Your baby very clearly looks like a baby now."
+	},
+	{
+		"description": "Some women experience only mild pregnancy symptoms."
+	},
+	{
+		"description": "Baby's crown to rump length is 2.5-3.0 cm or 1.2 inches. Baby weighs about 3-5 grams or .25 ounces. "
+	},
+	{
+		"description": "All organ systems and external structures are present now."
+	},
+	{
+		"description": "Baby's head is almost half of your baby's size."
+	},
+	{
+		"description": "Your baby's face is well formed."
+	},
+	{
+		"description": "Skipping meals because of morning sickness will likely make nausea worse. Eat small meals instead."
+	},
+	{
+		"description": "You might start wearing some maternity clothes now."
+	},
+	{
+		"description": "Pregnant moms require more oxygen. They may feel short of breath."
+	},
+	{
+		"description": "Baby's crown to rump length is 3-5 cm or 1.2-2.0 inches. Baby weighs about 8 grams."
+	},
+	{
+		"description": "Baby's fingers and toes begin growing soft nails. "
+	},
+	{
+		"description": "Baby's intestines are developing."
+	},
+	{
+		"description": "Baby's bladder sac is formed."
+	},
+	{
+		"description": "Kegel exercises can help curb urinary incontinence."
+	},
+	{
+		"description": "Boy babies begin producing testosterone."
+	},
+	{
+		"description": "Congratulations! You have completed your first trimester."
+	}
+],
+"month4":[
+	{
+		"description": "Month 4"
+	},
+	{
+		"description": "Baby's crown to rump length is 5-6 cm or 2.0-2.4 inches. Baby weighs about 14 grams or 0.5 ounces. "
+	},
+	{
+		"description": "Baby's skin is pink and delicate. "
+	},
+	{
+		"description": "Baby is making hormones such as insulin now."
+	},
+	{
+		"description": "Baby's liver is producing bile."
+	},
+	{
+		"description": "Pregnancy amnesia kicks in. You may find yourself more forgetful."
+	},
+	{
+		"description": "Sleeping on your belly is likely impossible. Try sleeping on your side."
+	},
+	{
+		"description": "Using a body pillow at night may help with discomfort."
+	},
+	{
+		"description": "Baby's crown to rump length is 7-9 cm or 3.0-3.5 inches. Baby weighs about 35 grams or 1.25 ounces. "
+	},
+	{
+		"description": "Baby's tooth sockets are forming.  "
+	},
+	{
+		"description": "Baby's hair follicles develop."
+	},
+	{
+		"description": "Sleeping with your head elevated may help with night time heartburn."
+	},
+	{
+		"description": "Exercises performed laying flat on your back should be avoided now."
+	},
+	{
+		"description": "Lamaze, Bradley, Dick-Read, and hypnobirthing are childbirth methods to consider."
+	},
+	{
+		"description": "If you haven't picked one already, you are probably looking for baby names.  "
+	},
+	{
+		"description": "Baby's crown to rump length is 9-10 cm or 3.5-4.0 inches. Baby weighs about 50 grams or 1.75 ounces. "
+	},
+	{
+		"description": "Baby begins to inhale and exhale amniotic fluid (practicing breathing)."
+	},
+	{
+		"description": "Morning sickness has hopefully disappeared."
+	},
+	{
+		"description": "Baby has meconium present in the intestines now. "
+	},
+	{
+		"description": "Mom may find her skin drier during pregnancy. Lotions may help. "
+	},
+	{
+		"description": "Moms may experience leg cramps. Make sure to stretch legs when they occur."
+	},
+	{
+		"description": "Some women experience carpal tunnel syndrome during pregnancy. Talk to your doctor if you experience muscle aches in your hands and wrist."
+	},
+	{
+		"description": "Baby's crown to rump length is 10-11 cm or 4-4.3 inches. Baby weighs about 100 grams or 3.5 ounces.  "
+	},
+	{
+		"description": "Baby may be sucking its thumb. "
+	},
+	{
+		"description": "You may be starting to feel baby move now. First time moms may not feel baby move till closer to 20 wks."
+	},
+	{
+		"description": "Baby's sex is distinguishable now. If you have an ultrasound it is possible to detect the baby's gender this early."
+	},
+	{
+		"description": "You'll probably be asked if you want blood work done for alpha fetoprotein testing done (a screening for neural tube defects or Down's Syndrome)."
+	},
+	{
+		"description": "Moms may feel frustrated that you are too big for your regular clothes, but don't quite fit into maternity clothes.  "
+	},
+	{
+		"description": "There are many old wive's tales predicting baby's gender. Try our gender prediction quiz."
+	}
+],
+"month5":[
+	{
+		"description": "Month 5"
+	},
+	{
+		"description": "Baby's crown to rump length is 11 or 12 cm or 5 inches. Baby weighs about 100-150 grams or 3.5-5.3 ounces.  "
+	},
+	{
+		"description": "Baby's eyes and ears are in their proper place now."
+	},
+	{
+		"description": "Baby's circulatory system is completely functional."
+	},
+	{
+		"description": "Baby's sweat glands are developing."
+	},
+	{
+		"description": "Moms may have back pain during pregnancy. Try wearing a pregnancy support belt."
+	},
+	{
+		"description": "If you have other children, try having them sit on your lap instead of carrying or lifting them. "
+	},
+	{
+		"description": "Eating high fiber foods such as fruits, veggies, and bran cereal may help with constipation."
+	},
+	{
+		"description": "Baby's crown to rump length is 13.5 cm or 5.3 inches. Baby weighs about 150-200 grams or 5.3-7.0 ounces.  "
+	},
+	{
+		"description": "Fine hair called lanugo is starting to appear. "
+	},
+	{
+		"description": "Baby's fingerprints and toeprints are forming. "
+	},
+	{
+		"description": "Baby's teeth beginning to form enamel. "
+	},
+	{
+		"description": "Mom may be experiencing round ligament pains - pain or discomfort on one or both sides of abdomen. "
+	},
+	{
+		"description": "Ask your doctor or midwife for safe over the counter medications to take for heartburn. "
+	},
+	{
+		"description": "You probably have begun shopping for baby clothes and baby furniture."
+	},
+	{
+		"description": "Baby's crown to rump length is 15 cm or 6 inches. Baby weighs about 250 grams or 8.5 ounces.  "
+	},
+	{
+		"description": "Baby is sucking and swallowing. "
+	},
+	{
+		"description": "Try talking to your baby. Baby can hear you. "
+	},
+	{
+		"description": "Baby may assume favorite positions."
+	},
+	{
+		"description": "Moms may have a white vaginal discharge known as leukorrhea."
+	},
+	{
+		"description": "Moms may experience bleeding gums when brushing teeth."
+	},
+	{
+		"description": "You may have to be creative and try different positions during sexual intercourse."
+	},
+	{
+		"description": "Baby's crown to rump length is 16 cm or 6.3 inches. Baby weighs about 300 grams or 10.5 ounces.  "
+	},
+	{
+		"description": "Fetal heartbeat can be heard with fetoscope. "
+	},
+	{
+		"description": "Baby's skin becomes less transparent."
+	},
+	{
+		"description": "Baby can grasp things. "
+	},
+	{
+		"description": "Moms should elevate their feet and legs when resting or sitting to help with swelling."
+	},
+	{
+		"description": "If mom has developed hemorrhoids ice packs or topical ointments may help."
+	},
+	{
+		"description": "Now is a good time to register for childbirth preparations class."
+	}
+],
+"month6":[
+	{
+		"description": "Month 6"
+	},
+	{
+		"description": "Baby's crown to rump length is 18 cm or 7 inches. Baby weighs about 300-350 grams or 10.5-12.3 ounces.  "
+	},
+	{
+		"description": "Vernix, a white lanolin-like covering, appears on baby to protect its skin. "
+	},
+	{
+		"description": "You may have had an ultrasound and know your baby's gender. "
+	},
+	{
+		"description": "Baby's nipples now appear on mammary glands."
+	},
+	{
+		"description": "Dad may become more involved in pregnancy."
+	},
+	{
+		"description": "Moms might have more vivid dreams or nightmares."
+	},
+	{
+		"description": "If you are planning to breastfeed, a breastfeeding class is recommended."
+	},
+	{
+		"description": "Baby's crown to rump length is 19 cm or 7.5 inches.Baby weighs about 350-425 grams or 12.3-15 ounces."
+	},
+	{
+		"description": "Baby's eyelashes and eyebrows are growing. "
+	},
+	{
+		"description": "Baby's total length (head to toe) is approximately 10 inches."
+	},
+	{
+		"description": "Baby now sleeps and wakes on a somewhat regular schedule."
+	},
+	{
+		"description": "A birth plan is something you might be working on."
+	},
+	{
+		"description": "Some moms will hire a doula or labor assistant for support during labor."
+	},
+	{
+		"description": "During the second trimester, moms feel less fatigue and more energy."
+	},
+	{
+		"description": "Baby's crown to rump length is 20 cm or 7.9 inches. Baby weighs about 425-500 grams or 15 ounces -1.1 pounds. "
+	},
+	{
+		"description": "Baby is starting to make antibodies. "
+	},
+	{
+		"description": "Dad may be able to see or feel baby's movements."
+	},
+	{
+		"description": "Baby's heartbeat is getting stronger."
+	},
+	{
+		"description": "Some moms have difficultly wearing contacts during pregnancy. This usually resolves 6 wks postpartum."
+	},
+	{
+		"description": "Moms may start to worry about weight gain. Nutrition during pregnancy is vital for proper development. "
+	},
+	{
+		"description": "Sex life may be affected. Dad may have fears of hurting your or baby. You may desire sex more or sex drive may go down during pregnancy. "
+	},
+	{
+		"description": "Baby's crown to rump length is 21 cm or 8.3 inches. Baby weighs about 500-600 grams or 1.1-1.3 pounds "
+	},
+	{
+		"description": "Bleeding and blurred vision are some danger signs in pregnancy."
+	},
+	{
+		"description": "Baby's lungs are developing. Alveoli are forming.  "
+	},
+	{
+		"description": "Baby has developed a hand grip reflex and startle reflex."
+	},
+	{
+		"description": "Baby is getting bigger and has less space to move around. "
+	},
+	{
+		"description": "Mom may be experiencing Braxton Hicks Contractions."
+	},
+	{
+		"description": "Dizziness during pregnancy sometimes occurs. Sleeping on your side is one thing you can do to help. "
+	}
+],
+"month7":[
+	{
+		"description": "Month 7"
+	},
+	{
+		"description": "Baby's crown to rump length is 22 cm or 8.7 inches. Baby weighs about 600-700 grams or 1.3-1.5 pounds  "
+	},
+	{
+		"description": "Baby's eye is completely developed and will open soon. "
+	},
+	{
+		"description": "Baby's skin is red and wrinkled. "
+	},
+	{
+		"description": "More than half of baby's born now will survive."
+	},
+	{
+		"description": "Mom may worry about having signs of preterm labor."
+	},
+	{
+		"description": "Mom is probably looking forward to baby shower soon. "
+	},
+	{
+		"description": "If your having problems with leg cramps, try using heat. "
+	},
+	{
+		"description": "Baby's crown to rump length is 23 cm or 9 inches. Baby weighs about 700-800 grams or 1.5-1.75 pounds.  "
+	},
+	{
+		"description": "Baby's total length (head to toe) is approximately 11 inches."
+	},
+	{
+		"description": "Baby's brain looks like a mature brain now. "
+	},
+	{
+		"description": "Alveoli appear in the lungs and begin producing surfactant."
+	},
+	{
+		"description": "If you've had a prior cesarean birth you may be considering a VBAC, vaginal birth after cesarean. "
+	},
+	{
+		"description": "Mom may notice increased shortness of breath."
+	},
+	{
+		"description": "More and more mothers are considering storing their baby's cord blood."
+	},
+	{
+		"description": "Baby's crown to rump length is 24 cm or 9.4 inches. Baby weighs about 850-1000 grams or 1.8-2.2 pounds.  "
+	},
+	{
+		"description": "Baby's eyes open. "
+	},
+	{
+		"description": "Baby has a strong grip."
+	},
+	{
+		"description": "Baby is able to cry. "
+	},
+	{
+		"description": "Moms are averaging a 1/2-1 pound weight gain per week now. "
+	},
+	{
+		"description": "Moms may be experiencing groin pains."
+	},
+	{
+		"description": "Congratulations you have finished your second trimester!"
+	},
+	{
+		"description": "Baby's crown to rump length is 25 cm or 9.8 inches. Baby weighs about 1000-1100 grams or 2.2-2.4 pounds.  "
+	},
+	{
+		"description": "Mom should start monitoring fetal movements through daily kick counts. "
+	},
+	{
+		"description": "Baby starts to recognize mom's voice in third trimester."
+	},
+	{
+		"description": "If baby is a boy, testes are descending. "
+	},
+	{
+		"description": "You should be tested for gestational diabetes now."
+	},
+	{
+		"description": "Braxton Hicks contractions may be increasing."
+	},
+	{
+		"description": "You will probably begin seeing your health care provider every 2 wks now."
+	}
+],
+"month8":[
+	{
+		"description": "Month 8"
+	},
+	{
+		"description": "Baby's crown to rump length is 26 cm or 10.2 inches. Baby weighs about 1100-1250 grams or 2.4-2.75 pounds  "
+	},
+	{
+		"description": "Baby is 2/3 it's final size. "
+	},
+	{
+		"description": "Baby is picking up body fat and filling out."
+	},
+	{
+		"description": "Baby is able to partially control it's own body temperature now."
+	},
+	{
+		"description": "Mom may be experiencing increased urination again."
+	},
+	{
+		"description": "Talk to your heath care provider about guidelines to call when having contractions."
+	},
+	{
+		"description": "Mom may be trying to decide whether or not to circumcise if baby is a boy.  "
+	},
+	{
+		"description": "Baby's crown to rump length is 27 cm or 10.6 inches. Baby weighs about 1300-1400 grams or 2.8-3.1 pounds  "
+	},
+	{
+		"description": "Baby's total length (head to toe) is approximately 15.5 inches.  "
+	},
+	{
+		"description": "Baby's has rhythmic breathing, but lungs are still not fully mature."
+	},
+	{
+		"description": "Baby's eyes respond to light. Baby's bones are fully developed."
+	},
+	{
+		"description": "Now is a good time to practice relaxation exercises."
+	},
+	{
+		"description": "Mom should discuss options available to her if she should need a cesarean section."
+	},
+	{
+		"description": "La Leche League is a non-profit organization that provides support for breastfeeding moms. "
+	},
+	{
+		"description": "Baby's crown to rump length is 28 cm or 11 inches. Baby weighs about 1500-1600 grams or 3.3-3.5 pounds  "
+	},
+	{
+		"description": "Baby's kicking may be stronger and more vigorous. "
+	},
+	{
+		"description": "Baby's heart rate is about 120-160 beats per minute."
+	},
+	{
+		"description": "Baby sleeps most of the time now and has period of REM sleep. "
+	},
+	{
+		"description": "You may notice leaking colostrum.  "
+	},
+	{
+		"description": "You should report lack of fetal movement to your health care provider immediately. "
+	},
+	{
+		"description": "You may be experiencing leaking urine or stress incontinence. "
+	},
+	{
+		"description": "Baby's crown to rump length is 29 cm or 11.4 inches. Baby weighs about 1700-1800 grams or 3.75-4 pounds  "
+	},
+	{
+		"description": "Baby begins storing iron, phosphorous, and calcium. "
+	},
+	{
+		"description": "Baby's testicles (if a boy) may be located in the scrotal sac now."
+	},
+	{
+		"description": "Baby is gaining weight more rapidly now."
+	},
+	{
+		"description": "You may be anxious and restless about labor."
+	},
+	{
+		"description": "Now is a good time to discuss with your health care provider birth control options."
+	},
+	{
+		"description": "You may be put on bedrest if there are signs of preterm labor."
+	}
+],
+"month9":[
+	{
+		"description": "Month 9"
+	},
+	{
+		"description": "Baby's crown to rump length is 30 cm or 11.8 inches. Baby weighs about 1900-2000 grams or 4.2-4.4 pounds  "
+	},
+	{
+		"description": "Baby appears less red and wrinkled now. "
+	},
+	{
+		"description": "Babies born at this time have a good chance of survival, but will require extra care. "
+	},
+	{
+		"description": "Baby's kidneys are fully developed. "
+	},
+	{
+		"description": "Headaches, blurred vision and excessive swelling are signs of preeclampsia."
+	},
+	{
+		"description": "Moms may experience increased shortness of breath."
+	},
+	{
+		"description": "It's a good idea to take rings off during the third trimester if you are having problems with swelling."
+	},
+	{
+		"description": "Baby's crown to rump length is 31 cm or 12.2 inches. Baby weighs about 2100-2250 grams or 4.6-5 pounds  "
+	},
+	{
+		"description": "Baby is becoming increasingly cramped for space, but is still very active. "
+	},
+	{
+		"description": "Many baby's eyes are blue at birth, but change colors later."
+	},
+	{
+		"description": "Dress in layers if you find yourself feeling hotter than usual. "
+	},
+	{
+		"description": "Your sex drive may decrease during the third trimester."
+	},
+	{
+		"description": "Drinking more water will help with swelling. "
+	},
+	{
+		"description": "Witch hazel compresses may help with hemorrhoids."
+	},
+	{
+		"description": "Baby's crown to rump length is 33 cm or 13 inches. Baby weighs about 2350-2550 grams or 5.2-5.6 pounds  "
+	},
+	{
+		"description": "Baby should be turned head down and preparing for birth. "
+	},
+	{
+		"description": "Baby's lanugo hair is starting to disappear."
+	},
+	{
+		"description": "During the last wks of pregnancy it would be best not to do any lengthy travels. "
+	},
+	{
+		"description": "Babies need a rear facing carseat to travel home from the hospital. "
+	},
+	{
+		"description": "If you're still having difficulty coming up with a name try our baby name database. "
+	},
+	{
+		"description": "Talk to your health care provider about pain relief options during labor.  "
+	},
+	{
+		"description": "Baby's crown to rump length is 34 cm or 13.4 inches. Baby weighs about 2600-2750 grams or 5.7-6 pounds  "
+	},
+	{
+		"description": "Baby's fingernails reach the end of fingers. "
+	},
+	{
+		"description": "Now is a good time to pack your bag for the hospital. "
+	},
+	{
+		"description": "Don't forget to have a camera packed."
+	},
+	{
+		"description": "Baby's total length (head to toe) is approximately 18.5 inches."
+	},
+	{
+		"description": "Group B strep is a lab test that is commonly done between 35-37 wks. "
+	},
+	{
+		"description": "You will start having once a week appointments now."
+	}
+],
+"month10":[
+	{
+		"description": "Month 10"
+	},
+	{
+		"description": "Baby's crown to rump length is 35 cm or 13.8 inches. Baby weighs about 2850-2950 grams or 6.3-6.5 pounds  "
+	},
+	{
+		"description": "Both boy and girl babies may have swollen breasts when born."
+	},
+	{
+		"description": "Increased mucusy vaginal discharge is common in the last few wks of pregnancy."
+	},
+	{
+		"description": "Bloody show is one sign of labor. "
+	},
+	{
+		"description": "False labor is fairly common. It is always safer to go in and be checked."
+	},
+	{
+		"description": "You may have a vaginal exam to check for dilation and effacement. "
+	},
+	{
+		"description": "Babies born now are considered full term. "
+	},
+	{
+		"description": "Baby's crown to rump length is 35-36 cm or 13.8-14.2 inches. Baby weighs about 3000-3100 grams or 6.6-6.8 pounds  "
+	},
+	{
+		"description": "Baby girls will have a pink or mucousy vaginal discharge during the first few days after birth. "
+	},
+	{
+		"description": "You are cleaning like your mother in law is coming for a visit (other wise known as nesting)."
+	},
+	{
+		"description": "Backaches and menstrual type cramps may be early signs of labor."
+	},
+	{
+		"description": "Increased pelvic pressure is another sign of early labor."
+	},
+	{
+		"description": "Make a phone list of everyone that needs to be called after birth. Better yet, set up a phone tree with family and friends."
+	},
+	{
+		"description": "If you don't have someone to help after baby is born, freeze up some meals ahead of time so you won't have to cook right away. "
+	},
+	{
+		"description": "Baby's crown to rump length is 36-37 cm or 14.2-14.6 inches. Baby weighs about 3200-3250 grams or 7-7.2 pounds."
+	},
+	{
+		"description": "Baby's skin is pink and smooth now. "
+	},
+	{
+		"description": "If baby's head is not downward, you may have a cesarean birth."
+	},
+	{
+		"description": "Walking may help to encourage labor."
+	},
+	{
+		"description": "A list of positive affirmations may be helpful during labor. "
+	},
+	{
+		"description": "It's a good idea to put baby's carseat in the car now so it doesn't get forgotten. "
+	},
+	{
+		"description": "Diarrhea, nausea, and indigestion are all possible signs of early labor. "
+	},
+	{
+		"description": "Baby's crown to rump length is 37-38 cm or 14.6-15 inches. Baby weighs about 3400-3450 grams or 7.5-7.6 pounds "
+	},
+	{
+		"description": "You may have a sudden burst of energy."
+	},
+	{
+		"description": "Only a little more than 10% of women's water breaks before the onset of labor. "
+	},
+	{
+		"description": "Non stress tests are usually done if baby goes past its due date. "
+	},
+	{
+		"description": "Baby's total length (head to toe) is approximately 21.5 inches."
+	},
+	{
+		"description": "Your doctor will likely schedule an induction if you go past 41-42 wks."
+	},
+	{
+		"description": "Congratulations you have reached your due date! "
+	}
+]
+}
